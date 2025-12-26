@@ -52,3 +52,7 @@ Contributed analytics and on-chain wallet tracking to ████████�
 - Email: JakeVick94@gmail.com
 
 Thanks for stopping by - let's build the future of finance!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvick1&theme=dark&hide_border=true)
+
+
