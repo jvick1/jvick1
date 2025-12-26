@@ -1,7 +1,7 @@
 # Jake Vick 
-**Data Scientist | Quantitative Modeler | NLP & Blockchain Specialist**
+**Data Scientist | Quantitative Modeler | NLP & Blockchain Specialist | Founder @ CypherFi**
 
-Master's in Financial Analytics | 5+ years building ML-driven tools for finance, predictive modeling, and trading strategies | Founder @ CypherFi  
+Master's in Financial Analytics | 5+ years building ML-driven tools for finance, predictive modeling, and trading strategies   
 
 ## Recent Activity (Dec 2025)
 - 190+ commits to **TheMarketDecoder** (Nov–Dec): Proprietary real-time financial sentiment & report generation tool  
