@@ -1,13 +1,16 @@
 # Jake Vick 
 **Data Scientist | Quantitative Modeler | NLP & Blockchain Specialist | Founder @ CypherFi**
 
-Master's in Financial Analytics | 5+ years building ML-driven tools for finance, predictive modeling, and trading strategies   
+Master's in Financial Analytics | 5+ years building ML-driven tools for finance, predictive modeling, and trading strategies
 
 ## Recent Activity (Dec 2025)
 - 190+ commits to **TheMarketDecoder** (Nov–Dec): Proprietary real-time financial sentiment & report generation tool  
 - Ongoing development on **BTC Alpha Engine**: Systematic crypto strategy backtester with refined metrics and API-ready outputs
 
 ## Highlighted Private Projects
+
+Contributed analytics and on-chain wallet tracking to █████████ trading bot (2023–2025): Publicly reported performance included 70% signal win rate, +46% YTD automated returns (2025), and Sharpe ratio of 5.14
+
 - **TheMarketDecoder** (Private – Heavy active development)
    
   Modular NLP pipeline using FinBERT/transformers for sentiment extraction from SEC filings, news, and social data. Features batch S&P 500 processing, structured JSON/Markdown parsing, branded PDF reports, and chart generation. Demonstrated alpha in personal trading.
