@@ -40,7 +40,7 @@ Contributed analytics and on-chain wallet tracking to ████████�
 - [Intro to Rust](https://github.com/jvick1/Rust_Intro) - How to install Rust and set up your first few projects.
 - [Intro to Web Dev](https://github.com/jvick1/Web_Dev_101) - Looking at the basics of CSS & JS Development
 - [Intro to Solana](https://github.com/jvick1/Intro_to_SOL) - Introduction to Solana DApps
-
+- [Student-T for VaR & CVaR](https://github.com/jvick1/student_t_var_cvar) - Risk Modeling for $BTC
 
 ## Core Skills
 - ML/NLP: FinBERT, TensorFlow, Transformers  
