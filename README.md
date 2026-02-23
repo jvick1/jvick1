@@ -35,6 +35,7 @@ Contributed analytics and on-chain wallet tracking to ████████�
 
 ## Public Projects (2024 to present)
 - [PokeScraper_3.0](https://github.com/jvick1/PokeScraper_3.0) - Downloads all Pokémon sets (English/Japanese) then can pull every card ever made.
+- [Crypto-Risk-Engine](https://github.com/jvick1/crypto-risk-engine) -  fetches historical prices via Yahoo Finance, computes log returns, fits normal + Student's t distributions to capture fat tails, calculates parametric VaR/CVaR at user-specified confidence levels, generates diagnostic plots (PDF overlay, QQ, tail density), and exports results
 - [P&L Poster for X](https://github.com/jvick1/jvick1.github.io) - A lightweight web app that dynamically generates custom images based on user inputs, built with HTML and JavaScript for the Cyber Frogs NFT community.
 - [Intro to Python](https://github.com/jvick1/Python) - Python for Data Science & Machine Learning
 - [Intro to Rust](https://github.com/jvick1/Rust_Intro) - How to install Rust and set up your first few projects.
